@@ -1,0 +1,4 @@
+const fs = require('fs')
+var piropos = ['Si tu cuerpo fuera cárcel y tus labios cadena, qué bonito lugar para pasar mi condena.','Me encantaría ser tu pijama para acostarme contigo','Quisiera ser tablero de ajedrez para tener una reina tan bella como tú.','Debes estar muy cansada, pues no has parado de dar vueltas en todo el día por mi cabeza','Te quiero, pero no sé en qué posición, ¿me ayudas a elegir?','¿Te has hecho daño? Es que iba pasando por aquí y te vi caer del cielo.','¿De que panadería te escapaste bizcochito?','Eso si que son buenas curvas y no las de la carretera de mi pueblo.','No seré agricultor, pero si me dejas te planto unos besos.','Cariño, no hay pintor ni pintura que puedan plasmar tanta hermosura','Si ser bella fuese delito, te condenarían de por vida.','Apuesto a que te llamas Google, porque tienes todo lo que busco','Tus ojos son verdes los míos café, los míos te quieren los tuyos no sé']
+module.exports = { 
+piropos }

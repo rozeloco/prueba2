@@ -1,0 +1,6 @@
+const fs = require('fs')
+var colorados = ['Pepito le pregunta a su madre: \nMamá, ¿los corazones tienen piernas? \nNo ¿Porqué lo preguntas?\nPorque siempre escuchó a papá por las noches que dice «Abre las piernas corazón».','Pepito le pregunta a su padre:\nPapá, ¿Porqué te casaste con mamá?\nY el padre le dice:\nPor tu culpa…','¿Por qué los adivinos son una de las profesiones con menor número de hijos?\nPorque tienen las bolas de cristal','Una mujer en el confesionario:\nPadre, quiero confesarme, que cuando veo un hombre, me entran sudores por todo el cuerpo, se me calienta la entrepierna, y tengo muchas ganas de hacer el amor. \n¿Usted cree que me puedo librar de un pecado así?\nHoy te libras, porque tengo un bautizo, pero a la próxima no….','¿Cómo se dio cuenta Pinocho de que era un niño de madera?\nPorque fue a hacerse una paja y comenzó a arder…','JAIMITO VA CAMINANDO POR LA CALLE CON SU PADRE...\n CUANDO DE PRONTO SU PADRE EL DICE: HAY HIJO MIO LA VIDA ES LAAARGAAAAAA Y DUUURAAAA\n ENTONCES JAIMITO DICE: \nQUE SI,PADRE ENTONCES ME PICA LA VIDA JAJAJAJJAJAJAAA...']
+
+
+module.exports = { 
+colorados }
